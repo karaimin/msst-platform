@@ -6,7 +6,11 @@
 	<groupId>com.msstp</groupId>
 	<artifactId>msst-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+    <modules>
+        <module>rest-api</module>
+		<module>domain</module>
+	</modules>
+    <packaging>pom</packaging>
 
 	<name>msst-parent</name>
 	<description>Movie subtitles shared translating platform</description>

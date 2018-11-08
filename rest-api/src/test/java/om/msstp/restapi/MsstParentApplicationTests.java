@@ -1,4 +1,4 @@
-package com.msstp.msstparent;
+package om.msstp.restapi;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
