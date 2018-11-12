@@ -19,4 +19,12 @@
             </plugin>
         </plugins>
     </build>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.msstp</groupId>
+            <artifactId>domain</artifactId>
+            <version>${version}</version>
+        </dependency>
+    </dependencies>
 </project>
